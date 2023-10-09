@@ -13,7 +13,7 @@ function App() {
         <div className="row m-2">
           <div className="col-3"></div>
           <div className="col-6 ">
-            <p className="fs-2 text-center">澳門馬拉松</p>
+            <p className="fs-2 text-center"><Link to="/">澳門馬拉松</Link></p>
           </div>
           <div className="col-3">
             <p className="ds-3 text-end m-2">登出</p>
