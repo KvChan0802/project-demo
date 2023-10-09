@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div, p {
+    border: 1px solid rgb(230, 230, 230)
+}
+
+.appbody {
+    height: 800px;
+}
+
+.indexbtn {
+    width: 300px;
+    height: 70px;
+}
+
+header, footer {
+    height: 80px;
+}
