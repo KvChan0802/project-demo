@@ -7,15 +7,20 @@ div, p {
     border: 1px solid rgb(230, 230, 230)
 }
 
-.appbody {
-    height: 800px;
-}
-
 .indexbtn {
     width: 300px;
     height: 70px;
 }
 
+.appbody {
+    height: 70vh;
+}
+
 header, footer {
-    height: 80px;
+    height: 10vh;
+}
+
+.txt {
+    height: 8vh;
+    margin: 2vh 0 0 0;
 }
